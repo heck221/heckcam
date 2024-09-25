@@ -1,0 +1,1 @@
+<?php $koneksi = mysqli_connect("Localhost", "biciga303biz_Web", "biciga303biz_Web", "biciga303biz_Web"); ?>
